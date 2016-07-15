@@ -1,0 +1,22 @@
+{
+  "name": "markdown-extractor",
+  "version": "1.0.0",
+  "description": "Get everythings from markdown document",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuanhhaogk/markdown-extractor.git"
+  },
+  "keywords": [
+    "markdown"
+  ],
+  "author": "Vu Anh Hao <vuanhhaogk@gmail.com> (http://xn--vanhhoblog-l4a35n.vn)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vuanhhaogk/markdown-extractor/issues"
+  },
+  "homepage": "https://github.com/vuanhhaogk/markdown-extractor#readme"
+}
