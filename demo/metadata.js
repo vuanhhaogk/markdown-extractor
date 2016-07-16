@@ -9,4 +9,4 @@ var mdext = require(CURRENT_DIRECTORY + '/../index.js');
 // get content in nodejs.md
 var content = fs.readFileSync(CURRENT_DIRECTORY + '/assets/md/nodejs.md').toString();
 
-console.log('Headings: ', mdext.getHeadings(content));
+console.log(mdext.metadata(content));
