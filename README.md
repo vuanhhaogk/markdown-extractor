@@ -1,11 +1,8 @@
 # markdown-extractor
 
-> Get everythings from markdown document
+_Get everythings from markdown document_
 
-```shell
-node: ^0.10.40
-npm: ^1.4.28
-```
+[![Markdown Extractor](https://img.shields.io/badge/node-%5E0.10.40-brightgreen.svg)](//www.npmjs.com/package/markdown-extractor) [![Markdown Extractor](https://img.shields.io/badge/npm-%5E1.4.28-brightgreen.svg)](//www.npmjs.com/package/markdown-extractor)
 
 ## Install
 
